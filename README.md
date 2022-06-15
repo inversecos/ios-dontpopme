@@ -10,12 +10,10 @@ Steps to install:
 2. SFTP over to your jailbroken device (i used 14.1 with unc0ver jailbreak)
 3. move the binary to /var/mobile
 4. chmod 777 dontpopme
-5. /dontpopme
+5. run it ./dontpopme
 6. have fun :)
-
-![Screen Shot 2022-06-14 at 6 58 01 pm](https://user-images.githubusercontent.com/18277462/173735033-f3933fac-48ff-417e-b99f-8aee99ce57fb.png)
-
 
 peace out <3 
 Lina 
 
+![Screen Shot 2022-06-14 at 6 58 01 pm](https://user-images.githubusercontent.com/18277462/173735033-f3933fac-48ff-417e-b99f-8aee99ce57fb.png)
