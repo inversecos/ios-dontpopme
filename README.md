@@ -3,6 +3,10 @@
 u wanna pop me? lulz. ok hacker. show me what u got.
 
 This is the exercise binary for my blog post "Guide to Reversing and Exploiting iOS binaries Part 2: ARM64 ROP Chains". 
+
+https://www.inversecos.com/2022/06/guide-to-reversing-and-exploiting-ios.html
+
+
 ONLY download the binary "dontpopme". I have also uploaded the src if you are a lil evil cheating baby! 
 
 Steps to install:
